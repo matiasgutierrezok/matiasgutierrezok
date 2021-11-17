@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi everyone 🙋🏻‍♂️ Matias here! 👨🏼‍🦲
+I'm a fullstack developer with experience in Frontend
+- 🧠 My why: To encourage people to build better relationships so that together we can take care of eachother.
+- ⚡️ Fun fact: I can think ahead and detect future problems with ease.
+
+### What I'm up to
+- 🔭 I’m currently working on an entrepreneurial project of myown.
+- 🌱 I’m currently learning how to use Firebase.
+- 👯 I’m looking to collaborate with a multicultural team who care for eachother.
+- 💬 I have a Twitch channel where I code and talk about it.
 
 <!--
-**matiasgutierrezok/matiasgutierrezok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+matiasgutierrezok/matiasgutierrezok is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
