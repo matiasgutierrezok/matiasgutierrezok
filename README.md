@@ -1,6 +1,6 @@
 ## Hi everyone 🖐 Matias here!
 I'm a fullstack developer with experience in Frontend
-- 🧠 My why: To encourage people to build better relationships so that together we can take care of eachother.
+- 🧠 My why: To encourage people to build better relationships so that together we can take better care of eachother.
 - ⚡️ Fun fact: I can think ahead and detect future problems with ease.
 
 ## What I'm up to
